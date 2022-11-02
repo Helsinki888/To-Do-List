@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+.application{
+    width: 20%;
+    background-color:#E5E5E5;
+    margin: auto;
+    margin-top: 100px;
+    border: 1px solid #C4C4C4;
+    border-radius: 10px;
+}
+.blue{
+    position: relative;
+    width: auto;
+    height: 30px;
+    border-radius: 5px;
+  
+    background-color: aqua;
+}
+.heading{
+position: relative;
+margin-top: 10px;    
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 900;
+font-size: 26px;
+line-height: 30px;
+text-align: center;
+text-transform: capitalize;
+color: #000000;
+}
+.input-div{
+    margin: 20%;
+  
+}
+.write{
+    position: relative;
+
+     border: 1px solid #C4C4C4;
+    border-radius: 10px;
+    height: 30px; 
+    width: 200px;
+
+}
+.list{
+    margin: 10%;
+    list-style-type: none;
+}
+.button{
+    position: relative;
+    bottom: 10px;
+ width: 200px;
+    margin-left: 50px;
+    padding: 10px;
+    background: #833AE0;
+    border-radius: 71px;
+    border: 1px solid #C4C4C4;
+    color: white;
+    font-size: 20px;
+}
+.sorting{
+    margin-left: 160px;
+    margin-bottom: 20px;
+  margin-top: -300px;
+    border-radius: 71px;
+    background: #833AE0;
+    border: 1px solid #C4C4C4;
+}
+.delete{
+    width: 20px;
+    height: 20px;
+    border: none;
+    background: none;
+}
